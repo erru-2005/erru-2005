@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-I am a BCA student with a passion for web development and technology. My goal is to create user-friendly, accessible, and modern web applications that make a difference. I am constantly learning and exploring the latest trends in the tech world.
+I am a MCA student with a passion for web development and technology. My goal is to create user-friendly, accessible, and modern web applications that make a difference. I am constantly learning and exploring the latest trends in the tech world.
 
 ---
 
